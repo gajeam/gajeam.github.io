@@ -392,11 +392,11 @@ label.margin-toggle:not(.sidenote-number) {
     height: 100%;
 }
 
-@media (max-width: 760px) {
+@media screen and (max-width: 760px) {
     body {
-        width: 84%;
-        padding-left: 8%;
-        padding-right: 8%;
+        width: 86%;
+        padding-left: 7%;
+        padding-right: 7%;
     }
 
     hr,
