@@ -1,0 +1,76 @@
+items:
+  - title: "Academic Papers"
+    list:
+      - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
+        publisher: Michigan Telecommunications & Technology Law Review
+        link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550870
+        date: Forthcoming
+        fave: false
+      - name: "Explaining Algorithms: A Primer for Lawyers"
+        publisher: Georgetown Technology Law Review
+        link: https://georgetownlawtechreview.org/wp-content/uploads/2020/07/4.2-p711-730-Nicholas.pdf
+        date: July, 2020
+        fave: true
+
+  - title: "Journalism"
+    list:
+      - name: "Silicon Valley’s Favorite Idea for Encouraging Competition"
+        publisher: Slate
+        link: https://slate.com/technology/2019/11/data-portability-facebook-competition-antitrust.html
+        date: November 14, 2019
+        fave: false
+      - name: "Armed and Dangerous: Does Technology Make for Better Policing?"
+        publisher: Los Angeles Review of Books
+        link: https://lareviewofbooks.org/article/armed-and-dangerous-does-technology-make-for-better-policing/
+        date: August 12, 2019
+        fave: true
+      - name: "The Crypto Family Farm"
+        publisher: Logic Magazine
+        link: https://logicmag.io/bodies/the-crypto-family-farm/
+        date: August 3, 2019
+        fave: true
+      - name: "Trust-Busting as the Unsexy Answer to Google and Facebook"
+        publisher: Los Angeles Review of Books
+        link: https://lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/
+        date: January 28, 2019
+        fave: true
+      - name: "AI Neural Photo and Image Transfer will Change the Art World"
+        publisher: Slate
+        date: December 11, 2017
+        link: https://slate.com/technology/2017/12/a-i-neural-photo-and-image-style-transfer-will-change-the-art-world.html
+        fave: false
+      - name: "Ethereum is Coding’s New Wild West"
+        publisher: Wired
+        link: https://www.wired.com/story/ethereum-is-codings-new-wild-west
+        date: August 11, 2017
+        fave: false
+      - name: "Trump and Sanders User in the Smartphone Election"
+        publisher: The Boston Globe
+        link: https://www.bostonglobe.com/opinion/2015/08/04/donald-trump-bernie-sanders-usher-smartphone-election/JwVQ1tAJ4FINL6fVSjGSdK/story.html
+        date: August 4, 2015
+        fave: false
+  - title: "Policy Whitepapers"
+    list:
+      - name: "The New Portability: Designing Portability with Competition in Mind"
+        publisher: Engelberg Center on Innovation Law and Policy
+        link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
+        date: September 1, 2020
+        fave: true
+      - name: "Data Portability and Platform Competition: Is User Data Exported From Facebook Actually Useful to Competitors?"
+        publisher: Engelberg Center on Innovation Law and Policy
+        link: https://www.law.nyu.edu/centers/engelberg/pubs/2019-11-06-Data-Portability-And-Platform-Competition
+        date: November 6, 2019
+        note: Co-authored with Michael Weinberg
+        fave: false
+      - name: Do No Harm 2.0
+        publisher: New America
+        date: October 17, 2019
+        link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
+        note: Contributing author
+        fave: false
+      - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
+        publisher: Global Asia
+        date: March 28, 2019
+        link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
+        note: Co-authored with Steve Weber
+        fave: false

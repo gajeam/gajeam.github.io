@@ -1,0 +1,35 @@
+---
+layout: default
+title: Gabriel Nicholas
+
+twitter: https://twitter.com/GabeNicholas
+goodreads: https://www.goodreads.com/gajeam
+github: http://github.com/gajeam
+linkedin: https://www.linkedin.com/in/gnicho/
+
+fave: <span class="fave">*</span> 
+
+---
+<h1>{{ page.title }}</h1>
+<p>Gabriel Nicholas is a writer, researcher, and programmer based in Brooklyn, NY. He currently works as a joint researcher at the NYU School of Law Information Law Institute and the NYU Center for Cybersecurity. He is also a fellow at the Engelberg Center on Innovation Law and Policy.</p>
+<p> You can follow him on <a href = {{ page.twitter }}>Twitter</a>, <a href = {{ page.goodreads }} > Goodreads</a>, <a href = {{ page.github }}> Github</a>, and <a href = {{ page.linkedin}} >LinkedIn.</a>
+</p>
+<h2>Publications</h2>
+<p>I've placed an asterisk ({{page.fave}}) next to a few of my favorites.
+{% for section in site.data.links.items %}
+	<h3> {{section.title}} </h3>
+	<ul>
+	{% for item in section.list %}
+		<li>
+			<div>
+				<a class="paper-title" href="{{ item.link }}"> {{ item.name }} </a> {% if item.note != nil %} ({{ item.note }}) {% endif %} {% if item.fave == true %} {{page.fave}}{% endif %}
+
+			</div>
+			<div>
+				<span class="publisher"> {{ item.publisher }}</span> — {{ item.date }}
+			</div>
+
+		</li>
+	{% endfor %}
+	</ul>
+{% endfor %}
