@@ -14,6 +14,11 @@ items:
 
   - title: "Journalism"
     list:
+      - name: "The Day of Reckoning for Smartphone Contact Tracing is Here"
+        publisher: Fast Company
+        link: https://www.fastcompany.com/90550939/the-day-of-reckoning-for-smartphone-contact-tracing-is-here
+        date: September 17, 2020
+        fave: true
       - name: "Silicon Valley’s Favorite Idea for Encouraging Competition"
         publisher: Slate
         link: https://slate.com/technology/2019/11/data-portability-facebook-competition-antitrust.html
