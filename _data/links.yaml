@@ -1,4 +1,4 @@
-items:
+publications:
   - title: "Academic Papers"
     list:
       - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
@@ -79,3 +79,22 @@ items:
         link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
         note: Co-authored with Steve Weber
         fave: false
+conferences:
+  list:
+    - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
+      conference: "Big Tech & Antitrust Conference"
+      host: "Yale Law School Information Society Project"
+      date: October 3, 2020
+    - name: "Reconciling the Benefits and Risks of Data Portability"
+      conference: "Data To Go: An FTC Workshop on Data Portability"
+      host: Federal Trade Commission
+      date: September 22, 2020 
+      link: https://ftc-workshop-data-to-go.videoshowcase.net/data-to-go-data-portability
+    - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
+      conference: Privacy Law Scholars Conference
+      host: Berkeley Law and George Washington Law School
+      date: June 4, 2020
+    - name: "You Can't Take It With You: Why Data Portability Isn't Enough"
+      host: Public Knowledge
+      date: December 6, 2019
+      link: https://www.youtube.com/watch?v=BzFkYszNDsY

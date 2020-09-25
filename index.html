@@ -11,7 +11,7 @@ fave: <span class="fave">*</span>
 </p>
 <h2>Publications</h2>
 <p>I've put an asterisk ({{page.fave}}) next to a few of my favorites.
-{% for section in site.data.links.items %}
+{% for section in site.data.links.publications %}
 	<h3> {{section.title}} </h3>
 	<ul>
 	{% for item in section.list %}
@@ -28,3 +28,17 @@ fave: <span class="fave">*</span>
 	{% endfor %}
 	</ul>
 {% endfor %}
+<h2>Conferences & Presentations</h2>
+	<ul>
+	{% for conf in site.data.links.conferences.list %}
+		<li>
+			<div>
+				"{{conf.name}}"
+			</div>
+			<div>
+				{% if conf.conference != nil %} <span class="conf-conference"> {{conf.conference}}</span>, {% endif %}
+				{{conf.host}} — {{conf.date}} {% if conf.link != nil %}(<a href={{conf.link}}>Link</a>){% endif %}
+			</div>
+		</li>
+	{% endfor %}
+	</ul>
