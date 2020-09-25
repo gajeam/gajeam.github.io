@@ -4,6 +4,10 @@ email: site.data.contact.email
 <!doctype html>
 <html>
   <head>
+	{% if jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>{{ page.title }}</title>
