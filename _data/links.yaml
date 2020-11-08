@@ -1,6 +1,11 @@
 publications:
   - title: "Academic Papers"
     list:
+      - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
+        publisher: Mobile Media & Communication
+        date: Forthcoming
+        note: Co-authored with Aaron Shapiro
+        fave: false
       - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
         publisher: Michigan Telecommunications & Technology Law Review
         link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550870
@@ -81,6 +86,10 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Surveillance Delusion: Lessons from the Vietnam War"
+      conference: "Northeast Privacy Scholars Workshop"
+      host: "Northeastern University School of Law"
+      date: November 13, 2020
     - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
       conference: "Big Tech & Antitrust Conference"
       host: "Yale Law School Information Society Project"

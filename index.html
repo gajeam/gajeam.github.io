@@ -6,8 +6,8 @@ fave: <span class="fave">*</span>
 
 ---
 <h1>{{ page.title }}</h1>
-<p>Hi there! I'm a writer, researcher, and programmer based in Brooklyn, NY. I currently work as a joint researcher at the NYU School of Law Information Law Institute and the NYU Center for Cybersecurity. I'm also a fellow at the Engelberg Center on Innovation Law and Policy.</p>
-<p> You can follow me on <a href = {{ site.data.contact.twitter }}>Twitter</a>, <a href = {{ site.data.contact.goodreads }} > Goodreads</a>, <a href = {{ site.data.contact.github }}> GitHub</a>, or <a href = {{ site.data.contact.linkedin}} >LinkedIn.</a> Contact me by email at {{site.data.contact.email}}. <i>(If you are a human, please remove the "RRRR" from the email addresses before you send.)</i>
+<p>Hi there! I'm a writer, researcher, and programmer based in Brooklyn, NY. I currently work as a joint research fellow at the NYU School of Law Information Law Institute and the NYU Center for Cybersecurity. I'm also a fellow at the Engelberg Center on Innovation Law and Policy. Before shifting into policy and academia, I worked as a software engineer at Yahoo for five years.</p>
+<p> You can follow me on <a href = {{ site.data.contact.twitter }}>Twitter</a>, <a href = {{ site.data.contact.github }}> GitHub</a>, or <a href = {{ site.data.contact.linkedin}} >LinkedIn.</a> Contact me by email at {{site.data.contact.email}}. <i>(If you are a human, please remove the "RRRR" from the email addresses before you send.)</i>
 </p>
 <h2>Publications</h2>
 <p>I've put an asterisk ({{page.fave}}) next to a few of my favorites.
@@ -17,7 +17,9 @@ fave: <span class="fave">*</span>
 	{% for item in section.list %}
 		<li>
 			<div>
-				<a class="paper-title" href="{{ item.link }}"> {{ item.name }} </a> {% if item.note != nil %} ({{ item.note }}) {% endif %} {% if item.fave == true %} {{page.fave}}{% endif %}
+				{% if item.link != nil %} <a class="paper-title" href="{{ item.link }}"> {{ item.name }} </a>
+				{% else %} <span class ="paper-title">"{{ item.name }}" </span> {% endif %}
+				{% if item.note != nil %} ({{ item.note }}) {% endif %} {% if item.fave == true %} {{page.fave}}{% endif %}
 
 			</div>
 			<div>
