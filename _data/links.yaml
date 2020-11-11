@@ -17,6 +17,31 @@ publications:
         date: July, 2020
         fave: true
 
+  - title: "Policy Whitepapers"
+    list:
+      - name: "The New Portability: Designing Portability with Competition in Mind"
+        publisher: Engelberg Center on Innovation Law and Policy
+        link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
+        date: September 1, 2020
+        fave: true
+      - name: "Data Portability and Platform Competition: Is User Data Exported From Facebook Actually Useful to Competitors?"
+        publisher: Engelberg Center on Innovation Law and Policy
+        link: https://www.law.nyu.edu/centers/engelberg/pubs/2019-11-06-Data-Portability-And-Platform-Competition
+        date: November 6, 2019
+        note: Co-authored with Michael Weinberg
+        fave: false
+      - name: Do No Harm 2.0
+        publisher: New America
+        date: October 17, 2019
+        link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
+        note: Contributing author
+        fave: false
+      - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
+        publisher: Global Asia
+        date: March 28, 2019
+        link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
+        note: Co-authored with Steve Weber
+        fave: false
   - title: "Journalism"
     list:
       - name: "The Day of Reckoning for Smartphone Contact Tracing is Here"
@@ -58,31 +83,6 @@ publications:
         publisher: The Boston Globe
         link: https://www.bostonglobe.com/opinion/2015/08/04/donald-trump-bernie-sanders-usher-smartphone-election/JwVQ1tAJ4FINL6fVSjGSdK/story.html
         date: August 4, 2015
-        fave: false
-  - title: "Policy Whitepapers"
-    list:
-      - name: "The New Portability: Designing Portability with Competition in Mind"
-        publisher: Engelberg Center on Innovation Law and Policy
-        link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
-        date: September 1, 2020
-        fave: true
-      - name: "Data Portability and Platform Competition: Is User Data Exported From Facebook Actually Useful to Competitors?"
-        publisher: Engelberg Center on Innovation Law and Policy
-        link: https://www.law.nyu.edu/centers/engelberg/pubs/2019-11-06-Data-Portability-And-Platform-Competition
-        date: November 6, 2019
-        note: Co-authored with Michael Weinberg
-        fave: false
-      - name: Do No Harm 2.0
-        publisher: New America
-        date: October 17, 2019
-        link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
-        note: Contributing author
-        fave: false
-      - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
-        publisher: Global Asia
-        date: March 28, 2019
-        link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
-        note: Co-authored with Steve Weber
         fave: false
 conferences:
   list:
