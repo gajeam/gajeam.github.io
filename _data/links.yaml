@@ -1,22 +1,22 @@
 publications:
   - title: "Academic Papers"
     list:
-      - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
-        publisher: Mobile Media & Communication
-        date: Forthcoming
-        note: Co-authored with Aaron Shapiro
-        fave: false
       - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
         publisher: Michigan Telecommunications & Technology Law Review
         link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3550870
         date: Forthcoming
+        fave: false
+      - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
+        publisher: Mobile Media & Communication
+        link: https://doi.org/10.1177/2050157920975836
+        date: December, 2020
+        note: Co-authored with Aaron Shapiro
         fave: false
       - name: "Explaining Algorithms: A Primer for Lawyers"
         publisher: Georgetown Technology Law Review
         link: https://georgetownlawtechreview.org/wp-content/uploads/2020/07/4.2-p711-730-Nicholas.pdf
         date: July, 2020
         fave: true
-
   - title: "Policy Whitepapers"
     list:
       - name: "The New Portability: Designing Portability with Competition in Mind"
