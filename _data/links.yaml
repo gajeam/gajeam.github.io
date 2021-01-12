@@ -44,6 +44,11 @@ publications:
         fave: false
   - title: "Journalism"
     list:
+      - name: "Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems"
+        publisher: The Reboot
+        link: https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/
+        date: January 11, 2021
+        fave: false
       - name: "The Day of Reckoning for Smartphone Contact Tracing is Here"
         publisher: Fast Company
         link: https://www.fastcompany.com/90550939/the-day-of-reckoning-for-smartphone-contact-tracing-is-here
@@ -86,6 +91,10 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Deep Surveillance: Section on Internet and Computer Law"
+      conference: "AALS 2021"
+      host: "Association of American Law Schools"
+      date: January 7, 2021
     - name: "Surveillance Delusion: Lessons from the Vietnam War"
       conference: "Northeast Privacy Scholars Workshop"
       host: "Northeastern University School of Law"
