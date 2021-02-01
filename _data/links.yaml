@@ -91,6 +91,10 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Data Portability Practitioners Conference"
+      host: "NYU School of Law Engelberg Center on Innovation Law and Policy"
+      date: January 19 & 27, 2021
+      organizer: true
     - name: "Deep Surveillance: Section on Internet and Computer Law"
       conference: "AALS 2021"
       host: "Association of American Law Schools"

@@ -35,7 +35,8 @@ fave: <span class="fave">*</span>
 	{% for conf in site.data.links.conferences.list %}
 		<li>
 			<div>
-				"{{conf.name}}"
+				"{{conf.name}}" {% if conf.organizer == true %}(Organizer) {% endif %}
+
 			</div>
 			<div>
 				{% if conf.conference != nil %} <span class="conf-conference"> {{conf.conference}}</span>, {% endif %}
