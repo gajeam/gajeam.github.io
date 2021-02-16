@@ -44,6 +44,11 @@ publications:
         fave: false
   - title: "Journalism"
     list:
+      - name: "Our Disinformation Problem Has Been 70 Years in the Making"
+        publisher: The Boston Globe
+        link: https://www.bostonglobe.com/2021/02/14/opinion/our-disinformation-problem-has-been-70-years-making/
+        date: February 14, 2021
+        fave: true
       - name: "Data Liberation: A Step Toward Fixing Big Tech’s Competition Problems"
         publisher: The Reboot
         link: https://thereboot.com/data-liberation-a-step-toward-fixing-big-techs-competition-problems/
