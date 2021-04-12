@@ -19,6 +19,11 @@ publications:
         fave: true
   - title: "Policy Whitepapers"
     list:
+      - name: "Interoperability and Portability in the Wild: Lessons from the Data Sharing Practitioners Workshop"
+        publisher: Engelberg Center on Innovation Law and Policy
+        link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-04-interoperability-and-portability-in-the-wild
+        date: April 8, 2021
+        fave: true
       - name: "The New Portability: Designing Portability with Competition in Mind"
         publisher: Engelberg Center on Innovation Law and Policy
         link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
@@ -44,6 +49,11 @@ publications:
         fave: false
   - title: "Journalism"
     list:
+      - name: "Be Wary When Big Tech Says It’s Defending Your Privacy"
+        publisher: The Boston Globe
+        link: https://www.bostonglobe.com/2021/04/11/opinion/be-wary-when-big-tech-says-its-defending-your-privacy/
+        date: April 11, 2021
+        fave: false
       - name: "Our Disinformation Problem Has Been 70 Years in the Making"
         publisher: The Boston Globe
         link: https://www.bostonglobe.com/2021/02/14/opinion/our-disinformation-problem-has-been-70-years-making/
