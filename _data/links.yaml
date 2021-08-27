@@ -49,6 +49,11 @@ publications:
         fave: false
   - title: "Journalism"
     list:
+      - name: "Google, Privacy, and FLoC: Lamb or Wolf in Sheep's Clothing?"
+        publisher: Tech Policy Press
+        link: https://techpolicy.press/google-privacy-and-floc-lamb-or-wolf-in-sheeps-clothing/
+        date: August 27, 2021
+        fave: false
       - name: "Be Wary When Big Tech Says It’s Defending Your Privacy"
         publisher: The Boston Globe
         link: https://www.bostonglobe.com/2021/04/11/opinion/be-wary-when-big-tech-says-its-defending-your-privacy/
