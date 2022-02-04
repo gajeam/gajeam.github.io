@@ -49,6 +49,12 @@ publications:
         fave: false
   - title: "Journalism"
     list:
+      - name: "An AI Loop That Ensnares Consumers and Critics Alike"
+        publisher: Washington Post
+        link: https://www.washingtonpost.com/outlook/2022/01/28/an-ai-loop-that-ensnares-consumers-critics-alike/
+        date: January 28, 2022
+        note: Book Review
+        fave: true
       - name: "Google, Privacy, and FLoC: Lamb or Wolf in Sheep's Clothing?"
         publisher: Tech Policy Press
         link: https://techpolicy.press/google-privacy-and-floc-lamb-or-wolf-in-sheeps-clothing/
@@ -111,6 +117,11 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Contextual Integrity and Federated Learning of Cohorts"
+      conference: "3rd Annual Symposium on Applications of Contextual Integrity"
+      host: "University of Chicago"
+      date: October 1, 2021
+      organizer: true
     - name: "Data Portability Practitioners Conference"
       host: "NYU School of Law Engelberg Center on Innovation Law and Policy"
       date: January 19 & 27, 2021
