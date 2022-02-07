@@ -86,6 +86,7 @@ publications:
         date: November 14, 2019
         fave: false
       - name: "Armed and Dangerous: Does Technology Make for Better Policing?"
+        note: Book Review
         publisher: Los Angeles Review of Books
         link: https://lareviewofbooks.org/article/armed-and-dangerous-does-technology-make-for-better-policing/
         date: August 12, 2019
@@ -97,6 +98,7 @@ publications:
         fave: true
       - name: "Trust-Busting as the Unsexy Answer to Google and Facebook"
         publisher: Los Angeles Review of Books
+        note: Book Review
         link: https://lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/
         date: January 28, 2019
         fave: true
