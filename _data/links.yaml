@@ -123,7 +123,10 @@ conferences:
       conference: "3rd Annual Symposium on Applications of Contextual Integrity"
       host: "University of Chicago"
       date: October 1, 2021
-      organizer: true
+    - name: "Anticompetitive-by-Design: Preventing Dark Patterns in Data Sharing"
+      conference: "Privacy Law Scholars Conference 2021"
+      host: "Georgetown University"
+      date: June 3, 2021
     - name: "Data Portability Practitioners Conference"
       host: "NYU School of Law Engelberg Center on Innovation Law and Policy"
       date: January 19 & 27, 2021
@@ -146,7 +149,7 @@ conferences:
       date: September 22, 2020 
       link: https://ftc-workshop-data-to-go.videoshowcase.net/data-to-go-data-portability
     - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
-      conference: Privacy Law Scholars Conference
+      conference: Privacy Law Scholars Conference 2020
       host: Berkeley Law and George Washington Law School
       date: June 4, 2020
     - name: "You Can't Take It With You: Why Data Portability Isn't Enough"
