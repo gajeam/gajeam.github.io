@@ -19,6 +19,10 @@ publications:
         fave: true
   - title: "Policy Whitepapers"
     list:
+      - name: "Spotlight on Shadowbanning"
+        publisher: Center for Democracy & Technology
+        link: https://cdt.org/insights/spotlight-on-shadowbanning/
+        date: April 26, 2022
       - name: "Interoperability and Portability in the Wild: Lessons from the Data Sharing Practitioners Workshop"
         publisher: Engelberg Center on Innovation Law and Policy
         link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-04-interoperability-and-portability-in-the-wild
