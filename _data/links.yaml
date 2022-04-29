@@ -53,6 +53,11 @@ publications:
         fave: false
   - title: "Journalism"
     list:
+      - name: "Shadowbanning is Big Tech's Big Problem"
+        publisher: The Atlantic
+        link: https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/
+        date: April 28, 2022
+        fave: true
       - name: "An AI Loop That Ensnares Consumers and Critics Alike"
         publisher: Washington Post
         link: https://www.washingtonpost.com/outlook/2022/01/28/an-ai-loop-that-ensnares-consumers-critics-alike/
