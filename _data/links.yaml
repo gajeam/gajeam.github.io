@@ -23,11 +23,12 @@ publications:
         publisher: Center for Democracy & Technology
         link: https://cdt.org/insights/spotlight-on-shadowbanning/
         date: April 26, 2022
+        fave: true
       - name: "Interoperability and Portability in the Wild: Lessons from the Data Sharing Practitioners Workshop"
         publisher: Engelberg Center on Innovation Law and Policy
         link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-04-interoperability-and-portability-in-the-wild
         date: April 8, 2021
-        fave: true
+        fave: false
       - name: "The New Portability: Designing Portability with Competition in Mind"
         publisher: Engelberg Center on Innovation Law and Policy
         link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
@@ -134,6 +135,14 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Challenges and Opportunities in Automating Low Resource Language Content Moderation"
+      conference: International Conference on Information & Communication Technologies and Development 2022
+      host: University of Washington
+      date: June 28, 2022
+    - name: "Administering Social Data: Lessons for Social Media from Medical Data"
+      conference: Privacy Law Scholars Conference 2022
+      host: Northeastern University
+      date: June 2, 2022
     - name: "Contextual Integrity and Federated Learning of Cohorts"
       conference: "3rd Annual Symposium on Applications of Contextual Integrity"
       host: "University of Chicago"
