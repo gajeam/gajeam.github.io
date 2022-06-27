@@ -54,13 +54,13 @@ publications:
         fave: false
   - title: "Journalism"
     list:
-      - name: "Shadowbanning is Big Tech's Big Problem"
+      - name: "A Plan To Fix the Internet: Put the Government in Charge"
         publisher: The Washington Post
         link: https://www.washingtonpost.com/outlook/2022/06/24/plan-fix-internet-put-government-charge/
         date: June 24, 2022
         note: Book Review
         fave: false
-      - name: "A plan to fix the internet: Put the government in charge"
+      - name: "Shadowbanning is Big Tech's Big Problem"
         publisher: The Atlantic
         link: https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/
         date: April 28, 2022
