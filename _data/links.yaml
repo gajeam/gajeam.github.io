@@ -19,6 +19,12 @@ publications:
         fave: true
   - title: "Policy Whitepapers"
     list:
+      - name: "Lost in Translation: Large Language Models in Non-English Content Analysis"
+        publisher: Center for Democracy & Technology
+        link: https://cdt.org/insights/lost-in-translation-large-language-models-in-non-english-content-analysis/
+        date: May 23, 2023
+        note: Co-authored with Aliya Bhatia
+        fave: true
       - name: "Learning to Share: Lessons on Data-Sharing from Beyond Social Media"
         publisher: Center for Democracy & Technology
         link: https://cdt.org/insights/learning-to-share-lessons-on-data-sharing-from-beyond-social-media/
@@ -59,6 +65,12 @@ publications:
         fave: false
   - title: "Journalism"
     list:
+      - name: "The Dire Defect of 'Multilingual' AI Content Moderation"
+        publisher: Wired
+        link: https://www.wired.com/story/content-moderation-language-artificial-intelligence/
+        date: May 23, 2023
+        note: Co-authored with Aliya Bhatia
+        fave: false
       - name: "A Plan To Fix the Internet: Put the Government in Charge"
         publisher: The Washington Post
         link: https://www.washingtonpost.com/outlook/2022/06/24/plan-fix-internet-put-government-charge/
@@ -140,6 +152,14 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Hate, in a Thousand Languages: Evaluating Social Media Companies’ Claims about the Multilinguality of Large Language Models"
+      conference: PlatGov Conference 2023
+      host: Platform Governance Research Network
+      date: April 4, 2023
+    - name: "Hate, in a Thousand Languages: Evaluating Social Media Companies’ Claims about the Multilinguality of Large Language Models"
+      conference: REAL ML Workshop 2022
+      host: REAL ML
+      date: December 5, 2022
     - name: "Challenges and Opportunities in Automating Low Resource Language Content Moderation"
       conference: International Conference on Information & Communication Technologies and Development 2022
       host: University of Washington
