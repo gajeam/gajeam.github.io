@@ -152,6 +152,14 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Large Language Model, Law, and Policy Roundtable"
+      host: "NYU Information Law Institute; Center for Democracy & Technology"
+      date: July 20, 2023
+      organizer: true
+    - name: "Languages Left Behind: Automation in Trust & Safety Across Borders, Languages, and Contexts"
+      conference: TrustCon
+      host: Trust & Safety Professional Association
+      date: July 11-13, 2023
     - name: "Hate, in a Thousand Languages: Evaluating Social Media Companies’ Claims about the Multilinguality of Large Language Models"
       conference: PlatGov Conference 2023
       host: Platform Governance Research Network
