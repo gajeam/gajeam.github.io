@@ -1,22 +1,4 @@
 publications:
-  - title: "Academic Papers"
-    list:
-      - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
-        publisher: Michigan Telecommunications & Technology Law Review
-        link: https://repository.law.umich.edu/mtlr/vol27/iss2/3/
-        date: "2021"
-        fave: false
-      - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
-        publisher: Mobile Media & Communication
-        link: https://doi.org/10.1177/2050157920975836
-        date: December, 2020
-        note: Co-authored with Aaron Shapiro
-        fave: false
-      - name: "Explaining Algorithms: A Primer for Lawyers"
-        publisher: Georgetown Technology Law Review
-        link: https://georgetownlawtechreview.org/wp-content/uploads/2020/07/4.2-p711-730-Nicholas.pdf
-        date: July, 2020
-        fave: true
   - title: "Policy Whitepapers"
     list:
       - name: "Lost in Translation: Large Language Models in Non-English Content Analysis"
@@ -51,18 +33,36 @@ publications:
         date: November 6, 2019
         note: Co-authored with Michael Weinberg
         fave: false
-      - name: Do No Harm 2.0
-        publisher: New America
-        date: October 17, 2019
-        link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
-        note: Contributing author
+      # - name: Do No Harm 2.0
+      #   publisher: New America
+      #   date: October 17, 2019
+      #   link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
+      #   note: Contributing author
+      #   fave: false
+      # - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
+      #   publisher: Global Asia
+      #   date: March 28, 2019
+      #   link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
+      #   note: Co-authored with Steve Weber
+      #   fave: false
+  - title: "Academic Papers"
+    list:
+      - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
+        publisher: Michigan Telecommunications & Technology Law Review
+        link: https://repository.law.umich.edu/mtlr/vol27/iss2/3/
+        date: "2021"
         fave: false
-      - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
-        publisher: Global Asia
-        date: March 28, 2019
-        link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
-        note: Co-authored with Steve Weber
+      - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
+        publisher: Mobile Media & Communication
+        link: https://doi.org/10.1177/2050157920975836
+        date: December, 2020
+        note: Co-authored with Aaron Shapiro
         fave: false
+      - name: "Explaining Algorithms: A Primer for Lawyers"
+        publisher: Georgetown Technology Law Review
+        link: https://georgetownlawtechreview.org/wp-content/uploads/2020/07/4.2-p711-730-Nicholas.pdf
+        date: July, 2020
+        fave: true
   - title: "Journalism"
     list:
       - name: "The Dire Defect of 'Multilingual' AI Content Moderation"
