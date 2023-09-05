@@ -81,10 +81,9 @@ publications:
         date: June 24, 2022
         fave: false
       - name: "An AI Loop That Ensnares Consumers and Critics Alike"
-        publisher: Washington Post
+        publisher: The Washington Post
         link: https://www.washingtonpost.com/outlook/2022/01/28/an-ai-loop-that-ensnares-consumers-critics-alike/
         date: January 28, 2022
-        note: Book Review
         fave: true
       - name: "Armed and Dangerous: Does Technology Make for Better Policing?"
         publisher: Los Angeles Review of Books
