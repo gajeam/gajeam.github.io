@@ -47,10 +47,15 @@ publications:
       #   fave: false
   - title: "Academic Papers"
     list:
+      - name: 'Sunsetting "Shadowbanning"'
+        publisher: Yale Information Society Project/Wikimedia Platform Governance Essay Series
+        link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4522168
+        date: July, 2023
+        fave: true
       - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
         publisher: Michigan Telecommunications & Technology Law Review
         link: https://repository.law.umich.edu/mtlr/vol27/iss2/3/
-        date: "2021"
+        date: July, 2021
         fave: false
       - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
         publisher: Mobile Media & Communication
@@ -63,7 +68,35 @@ publications:
         link: https://georgetownlawtechreview.org/wp-content/uploads/2020/07/4.2-p711-730-Nicholas.pdf
         date: July, 2020
         fave: true
-  - title: "Journalism"
+  - title: "Book Reviews"
+    list:
+      - name: '"Death Glitch" looks at what happens after we’ve logged off for good'
+        publisher: Washington Pos
+        link: https://www.washingtonpost.com/books/2023/08/10/death-glitch-tamara-kneese-review/
+        date: August 10, 2023
+        fave: true
+      - name: "A Plan To Fix the Internet: Put the Government in Charge"
+        publisher: The Washington Post
+        link: https://www.washingtonpost.com/outlook/2022/06/24/plan-fix-internet-put-government-charge/
+        date: June 24, 2022
+        fave: false
+      - name: "An AI Loop That Ensnares Consumers and Critics Alike"
+        publisher: Washington Post
+        link: https://www.washingtonpost.com/outlook/2022/01/28/an-ai-loop-that-ensnares-consumers-critics-alike/
+        date: January 28, 2022
+        note: Book Review
+        fave: true
+      - name: "Armed and Dangerous: Does Technology Make for Better Policing?"
+        publisher: Los Angeles Review of Books
+        link: https://lareviewofbooks.org/article/armed-and-dangerous-does-technology-make-for-better-policing/
+        date: August 12, 2019
+        fave: true
+      - name: "Trust-Busting as the Unsexy Answer to Google and Facebook"
+        publisher: Los Angeles Review of Books
+        link: https://lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/
+        date: January 28, 2019
+        fave: false
+  - title: "Op-Eds"
     list:
       - name: "The Dire Defect of 'Multilingual' AI Content Moderation"
         publisher: Wired
@@ -71,22 +104,10 @@ publications:
         date: May 23, 2023
         note: Co-authored with Aliya Bhatia
         fave: false
-      - name: "A Plan To Fix the Internet: Put the Government in Charge"
-        publisher: The Washington Post
-        link: https://www.washingtonpost.com/outlook/2022/06/24/plan-fix-internet-put-government-charge/
-        date: June 24, 2022
-        note: Book Review
-        fave: false
       - name: "Shadowbanning is Big Tech's Big Problem"
         publisher: The Atlantic
         link: https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/
         date: April 28, 2022
-        fave: true
-      - name: "An AI Loop That Ensnares Consumers and Critics Alike"
-        publisher: Washington Post
-        link: https://www.washingtonpost.com/outlook/2022/01/28/an-ai-loop-that-ensnares-consumers-critics-alike/
-        date: January 28, 2022
-        note: Book Review
         fave: true
       - name: "Google, Privacy, and FLoC: Lamb or Wolf in Sheep's Clothing?"
         publisher: Tech Policy Press
@@ -118,22 +139,10 @@ publications:
         link: https://slate.com/technology/2019/11/data-portability-facebook-competition-antitrust.html
         date: November 14, 2019
         fave: false
-      - name: "Armed and Dangerous: Does Technology Make for Better Policing?"
-        note: Book Review
-        publisher: Los Angeles Review of Books
-        link: https://lareviewofbooks.org/article/armed-and-dangerous-does-technology-make-for-better-policing/
-        date: August 12, 2019
-        fave: true
       - name: "The Crypto Family Farm"
         publisher: Logic Magazine
         link: https://logicmag.io/bodies/the-crypto-family-farm/
         date: August 3, 2019
-        fave: true
-      - name: "Trust-Busting as the Unsexy Answer to Google and Facebook"
-        publisher: Los Angeles Review of Books
-        note: Book Review
-        link: https://lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/
-        date: January 28, 2019
         fave: true
       - name: "AI Neural Photo and Image Transfer will Change the Art World"
         publisher: Slate
