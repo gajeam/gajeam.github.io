@@ -45,8 +45,14 @@ publications:
       #   link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
       #   note: Co-authored with Steve Weber
       #   fave: false
-  - title: "Academic Papers"
+  - title: "Academic Articles"
     list:
+      - name: "Toward Better Automated Content Moderation in Low-Resource Languages"
+        publisher: Journal of Online Trust & Safety
+        link: https://www.tsjournal.org/index.php/jots/article/view/150
+        date: September, 2023
+        note: Co-authored with Aliya Bhatia
+        fave: false
       - name: 'Sunsetting "Shadowbanning"'
         publisher: Yale Information Society Project/Wikimedia Platform Governance Essay Series
         link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4522168
