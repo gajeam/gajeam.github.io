@@ -39,12 +39,12 @@ publications:
       #   link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
       #   note: Contributing author
       #   fave: false
-      # - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
-      #   publisher: Global Asia
-      #   date: March 28, 2019
-      #   link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
-      #   note: Co-authored with Steve Weber
-      #   fave: false
+      - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
+        publisher: Global Asia
+        date: March 28, 2019
+        link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
+        note: Co-authored with Steve Weber
+        fave: false
   - title: "Academic Articles"
     list:
       - name: "Toward Better Automated Content Moderation in Low-Resource Languages"
