@@ -161,6 +161,19 @@ publications:
         fave: false
 conferences:
   list:
+    - name: "Improving Linguistic Inclusion in Large Language Models"
+      conference: Symposium on AI, Free Speech and Human Rights
+      host: Future of Free Speech Project at Vanderbilt
+      date: October 12, 2023
+    - name: "Towards Better Automated Content Moderation in Low-Resource Languages"
+      conference: Trust and Safety Research Conference
+      host: Stanford Internet Observatory
+      date: September 29, 2023
+    - name: "Lost in Translation: Large Language Models in Non-English Content Analysis"
+      conference: "Data Science for Social Impact Seminar Series"
+      host: "University of Pretoria"
+      date: September 15, 2023
+      organizer: false
     - name: "Large Language Model, Law, and Policy Roundtable"
       host: "NYU Information Law Institute; Center for Democracy & Technology"
       date: July 20, 2023
