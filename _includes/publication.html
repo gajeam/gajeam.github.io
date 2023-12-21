@@ -1,0 +1,8 @@
+<div class="title-line">
+	{% if include.item.link != nil %} <a class="paper-title" href="{{ include.item.link }}"> {{ include.item.name }} </a>
+	{% else %} <span class ="paper-title">"{{ include.item.name }}" </span> {% endif %}
+	{% if include.item.note != nil %} ({{ include.item.note }}) {% endif %} {% if include.item.fave == true %} {{include.faveIcon}} {% endif %}
+</div>
+<div class="publisher-line">
+	<span class="publisher"> {{ include.item.publisher }}</span> — {{ include.item.date | date: "%B, %Y"}}
+</div>

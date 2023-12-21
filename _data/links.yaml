@@ -1,79 +1,99 @@
-publications:
-  - title: "Policy Whitepapers"
-    list:
-      - name: "Lost in Translation: Large Language Models in Non-English Content Analysis"
-        publisher: Center for Democracy & Technology
-        link: https://cdt.org/insights/lost-in-translation-large-language-models-in-non-english-content-analysis/
-        date: May 23, 2023
-        note: Co-authored with Aliya Bhatia
-        fave: true
-      - name: "Learning to Share: Lessons on Data-Sharing from Beyond Social Media"
-        publisher: Center for Democracy & Technology
-        link: https://cdt.org/insights/learning-to-share-lessons-on-data-sharing-from-beyond-social-media/
-        date: September 8, 2022
-        fave: false
-      - name: "Spotlight on Shadowbanning"
-        publisher: Center for Democracy & Technology
-        link: https://cdt.org/insights/spotlight-on-shadowbanning/
-        date: April 26, 2022
-        fave: true
-      - name: "Interoperability and Portability in the Wild: Lessons from the Data Sharing Practitioners Workshop"
-        publisher: Engelberg Center on Innovation Law and Policy
-        link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-04-interoperability-and-portability-in-the-wild
-        date: April 8, 2021
-        fave: false
-      - name: "The New Portability: Designing Portability with Competition in Mind"
-        publisher: Engelberg Center on Innovation Law and Policy
-        link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
-        date: September 1, 2020
-        fave: true
-      - name: "Data Portability and Platform Competition: Is User Data Exported From Facebook Actually Useful to Competitors?"
-        publisher: Engelberg Center on Innovation Law and Policy
-        link: https://www.law.nyu.edu/centers/engelberg/pubs/2019-11-06-Data-Portability-And-Platform-Competition
-        date: November 6, 2019
-        note: Co-authored with Michael Weinberg
-        fave: false
-      # - name: Do No Harm 2.0
-      #   publisher: New America
-      #   date: October 17, 2019
-      #   link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
-      #   note: Contributing author
-      #   fave: false
-      - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
-        publisher: Global Asia
-        date: March 28, 2019
-        link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
-        note: Co-authored with Steve Weber
-        fave: false
-  - title: "Academic Articles"
-    list:
-      - name: "Toward Better Automated Content Moderation in Low-Resource Languages"
-        publisher: Journal of Online Trust & Safety
-        link: https://www.tsjournal.org/index.php/jots/article/view/150
-        date: September, 2023
-        note: Co-authored with Aliya Bhatia
-        fave: false
-      - name: 'Sunsetting "Shadowbanning"'
-        publisher: Yale Information Society Project/Wikimedia Platform Governance Essay Series
-        link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4522168
-        date: July, 2023
-        fave: true
-      - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
-        publisher: Michigan Telecommunications & Technology Law Review
-        link: https://repository.law.umich.edu/mtlr/vol27/iss2/3/
-        date: July, 2021
-        fave: false
-      - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
-        publisher: Mobile Media & Communication
-        link: https://doi.org/10.1177/2050157920975836
-        date: December, 2020
-        note: Co-authored with Aaron Shapiro
-        fave: false
-      - name: "Explaining Algorithms: A Primer for Lawyers"
-        publisher: Georgetown Technology Law Review
-        link: https://georgetownlawtechreview.org/wp-content/uploads/2020/07/4.2-p711-730-Nicholas.pdf
-        date: July, 2020
-        fave: true
+longPapers:
+  title: "Journal Articles & Policy Whitepapers"
+  list:
+    - name: "Understanding Innovation in Interoperable Systems: A Podcasting Case Study"
+      publisher: "Center for Democracy & Technology"
+      link: https://cdt.org/insights/understanding-innovation-in-interoperable-systems-a-podcasting-case-study/
+      date: 2023-12-07
+      note: Co-Authored with Michal Luria
+      topic: data-sharing
+    - name: "Lost in Translation: Large Language Models in Non-English Content Analysis"
+      publisher: Center for Democracy & Technology
+      link: https://cdt.org/insights/lost-in-translation-large-language-models-in-non-english-content-analysis/
+      date: 2023-05-23
+      note: Co-authored with Aliya Bhatia
+      fave: true
+      topic: ai
+    - name: "Learning to Share: Lessons on Data-Sharing from Beyond Social Media"
+      publisher: Center for Democracy & Technology
+      link: https://cdt.org/insights/learning-to-share-lessons-on-data-sharing-from-beyond-social-media/
+      date: 2022-09-08
+      note: Co-authored with Dhanaraj Thakur
+      fave: false
+      topic: data-sharing
+    - name: "Spotlight on Shadowbanning"
+      publisher: Center for Democracy & Technology
+      link: https://cdt.org/insights/spotlight-on-shadowbanning/
+      date: 2022-04-26
+      fave: true
+      topic: como
+    - name: "Interoperability and Portability in the Wild: Lessons from the Data Sharing Practitioners Workshop"
+      publisher: Engelberg Center on Innovation Law and Policy
+      link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-04-interoperability-and-portability-in-the-wild
+      date: 2021-04-08
+      fave: false
+      topic: data-sharing
+    - name: "The New Portability: Designing Portability with Competition in Mind"
+      publisher: Engelberg Center on Innovation Law and Policy
+      link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
+      date: 2020-09-01
+      fave: true
+      topic: data-sharing
+    - name: "Data Portability and Platform Competition: Is User Data Exported From Facebook Actually Useful to Competitors?"
+      publisher: Engelberg Center on Innovation Law and Policy
+      link: https://www.law.nyu.edu/centers/engelberg/pubs/2019-11-06-Data-Portability-And-Platform-Competition
+      date: 2019-11-06
+      note: Co-authored with Michael Weinberg
+      fave: false
+      topic: data-sharing
+    # - name: Do No Harm 2.0
+    #   publisher: New America
+    #   date: October 17, 2019
+    #   link: https://www.newamerica.org/cybersecurity-initiative/reports/do-no-harm-20/
+    #   note: Contributing author
+    #   fave: false
+    - name: "Frontiers of Technology Rivalry: Data, AI, Machine Learning"
+      publisher: Global Asia
+      date: 2019-03-28
+      link: https://globalasia.org/v14no1/cover/data-rivalry-and-government-power-machine-learning-is-changing-everything_steven-webergabriel-nicholas
+      note: Co-authored with Steve Weber
+      fave: false
+      topic: ai
+# - title: "Academic Articles"
+#   list:
+    - name: "Toward Better Automated Content Moderation in Low-Resource Languages"
+      publisher: Journal of Online Trust & Safety
+      link: https://www.tsjournal.org/index.php/jots/article/view/150
+      date: 2023-09-28
+      note: Co-authored with Aliya Bhatia
+      fave: false
+      topic: como
+    - name: 'Sunsetting "Shadowbanning"'
+      publisher: Yale Information Society Project/Wikimedia Platform Governance Essay Series
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4522168
+      date: 2023-07-01
+      fave: true
+      topic: como
+    - name: "Taking It With You: Platform Barriers to Entry and the Limits of Data Portability"
+      publisher: Michigan Telecommunications & Technology Law Review
+      link: https://repository.law.umich.edu/mtlr/vol27/iss2/3/
+      date: 2021-07-01
+      fave: false
+      topic: data-sharing
+    - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
+      publisher: Mobile Media & Communication
+      link: https://doi.org/10.1177/2050157920975836
+      date: 2020-12-01
+      note: Co-authored with Aaron Shapiro
+      fave: false
+      topic: data-sharing
+    - name: "Explaining Algorithms: A Primer for Lawyers"
+      publisher: Georgetown Technology Law Review
+      link: https://georgetownlawtechreview.org/wp-content/uploads/2020/07/4.2-p711-730-Nicholas.pdf
+      date: 2020-07-01
+      fave: true
+      topic: ai
+otherPublications:
   - title: "Book Reviews"
     list:
       - name: '"Death Glitch" looks at what happens after we’ve logged off for good'

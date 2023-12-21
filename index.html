@@ -4,6 +4,9 @@ title: Gabriel Nicholas
 
 fave: <span class="fave">*</span> 
 
+categories: ['ai', 'como', 'data-sharing']
+category-names: {'ai':'Artificial Intelligence', 'como':'Content Moderation','data-sharing':'Data Sharing & Interoperability'}
+
 ---
 
 <h1>{{ page.title }}
@@ -11,32 +14,39 @@ fave: <span class="fave">*</span>
 	<img id=profile-picture src="/assets/images/profile.jpg" alt="Headshot">
 </div>
 </h1>
-<p>Hi there. I'm a writer, researcher, and programmer based in Brooklyn, NY. I am currently a Research Fellow at the Center for Democracy & Technology where I work on issues around AI and content moderation. I am also a Non-Resident Fellow at the NYU School of Law Information Law Institute. My work has been featured in <i><a href= {{ site.data.media.atlantic}}>The Atlantic</a></i>, <i><a href= {{ site.data.media.nytimes}}>The New York Times</a></i>, <i><a href= {{ site.data.media.wapo}}>The Washington Post</a></i>, and CNN's <i><a href= {{ site.data.media.cnn }}>Anderson Cooper 360.</a></i> Before working in tech policy, I was a software engineer at Yahoo for five years.</p>
-<p> You can follow me on <a href = {{ site.data.contact.twitter }}>Twitter</a> or contact me at {{site.data.contact.email}}. <i>(If you are a human, please remove the "RRRR" from the email address before you send.)</i>
-</p>
-
-<h2>Publications</h2>
-<p class=favorites-disclaimer>I've put an asterisk ({{page.fave}}) next to a few of my favorites.</p>
-
-{% for section in site.data.links.publications %}
-	<h3> {{section.title}} </h3>
+	<p>Hi there. I'm a writer, researcher, and programmer based in Brooklyn, NY. I am currently a Research Fellow at the Center for Democracy & Technology where I work on issues around AI, content moderation, and data sharing. I am also a Non-Resident Fellow at the NYU School of Law Information Law Institute. My work has been featured in <i><a href= {{ site.data.media.atlantic}}>The Atlantic</a></i>, <i><a href= {{ site.data.media.nytimes}}>The New York Times</a></i>, <i><a href= {{ site.data.media.wapo}}>The Washington Post</a></i>, and CNN's <i><a href= {{ site.data.media.cnn }}>Anderson Cooper 360.</a></i> Before working in tech policy, I was a software engineer at Yahoo for five years.</p>
+	<p> You can follow me on <a href = {{ site.data.contact.twitter }}>Twitter</a> or contact me at {{site.data.contact.email}}. <i>(If you are a human, please remove the "RRRR" from the email address before you send.)</i>
+	</p>
+	<p class=favorites-disclaimer>I've put an asterisk ({{page.fave}}) next to a few of my favorites.</p>
+</div>
+<h2>{{site.data.links.longPapers.title}}</h2>
+{% assign longPapers = site.data.links.longPapers.list | sort:'date' | reverse%}
+{% for topic in page.categories %}
+	<h3>{{page.category-names[topic]}}</h3>
 	<ul>
-	{% for item in section.list %}
-		<li>
-			<div>
-				{% if item.link != nil %} <a class="paper-title" href="{{ item.link }}"> {{ item.name }} </a>
-				{% else %} <span class ="paper-title">"{{ item.name }}" </span> {% endif %}
-				{% if item.note != nil %} ({{ item.note }}) {% endif %} {% if item.fave == true %} {{page.fave}}{% endif %}
-
-			</div>
-			<div>
-				<span class="publisher"> {{ item.publisher }}</span> — {{ item.date }}
-			</div>
-
-		</li>
+	{% for pub in longPapers %}
+		{% if pub.topic == topic %}
+			<li>
+				{% include publication.html item=pub faveIcon=page.fave %}
+			</li>
+		{% endif %}
 	{% endfor %}
 	</ul>
 {% endfor %}
+
+{% for section in site.data.links.otherPublications %}
+	<h2>{{section.title}}</h2>
+	<ul>
+	{% for pub in section.list %}
+		{% if pub.topic == topic %}
+			<li>
+				{% include publication.html item=pub faveIcon=page.fave %}
+			</li>
+		{% endif %}
+	{% endfor %}
+	</ul>
+{% endfor %}
+
 <h2>Conferences & Presentations</h2>
 	<ul>
 	{% for conf in site.data.links.conferences.list %}
