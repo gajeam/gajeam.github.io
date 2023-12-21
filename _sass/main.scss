@@ -2,8 +2,6 @@
 	color:rgba(0, 0, 255, 0.7);
 }
 
-
-
 .publisher {
 	font-style:italic;
 }
@@ -11,3 +9,42 @@
 .conf-conference {
 	font-style:italic;
 }
+
+ul {
+    padding-left: 2rem;
+    list-style-type: circle;
+}
+li {
+    margin-bottom: .7rem;
+}
+
+
+#profile-picture {
+	min-width: 20rem;
+	padding-left:2%;
+	margin-left:2%;
+	border-radius: 50%;
+	width: 30%;
+	height: 30%;
+	float:right;
+}
+
+p.favorites-disclaimer {
+	text-align:left;
+}
+
+@media (max-width: 500px) {
+    #profile-picture {
+		margin:auto;
+		display:block;
+		float:none;
+		margin-top: 1.5rem;
+    }
+    h1 { 
+    	text-align:center;
+    }
+    p {
+    	  text-align: justify;
+    }
+}
+
