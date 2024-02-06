@@ -29,19 +29,19 @@ longPapers:
       topic: como
     - name: "Interoperability and Portability in the Wild: Lessons from the Data Sharing Practitioners Workshop"
       publisher: Engelberg Center on Innovation Law and Policy
-      link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-04-interoperability-and-portability-in-the-wild
+      link: https://www.law.nyu.edu/sites/default/files/interoperability_and_portability_in_the_wild_202104.pdf
       date: 2021-04-08
       fave: false
       topic: data-sharing
     - name: "The New Portability: Designing Portability with Competition in Mind"
       publisher: Engelberg Center on Innovation Law and Policy
-      link: https://www.law.nyu.edu/centers/engelberg/pubs/2020-09-01-the-new-portability
+      link: https://www.law.nyu.edu/sites/default/files/The_New_Data_Portability.pdf
       date: 2020-09-01
       fave: true
       topic: data-sharing
     - name: "Data Portability and Platform Competition: Is User Data Exported From Facebook Actually Useful to Competitors?"
       publisher: Engelberg Center on Innovation Law and Policy
-      link: https://www.law.nyu.edu/centers/engelberg/pubs/2019-11-06-Data-Portability-And-Platform-Competition
+      link: https://www.law.nyu.edu/sites/default/files/Data%20Portability%20and%20Platform%20Competition%20-%20Is%20User%20Data%20Exported%20From%20Facebook%20Actually%20Useful%20to%20Competitors.pdf
       date: 2019-11-06
       note: Co-authored with Michael Weinberg
       fave: false
