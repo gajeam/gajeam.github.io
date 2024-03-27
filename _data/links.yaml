@@ -1,6 +1,19 @@
 longPapers:
   title: "Journal Articles & Policy Whitepapers"
   list:
+    - name: "Researcher Access to Social Media Data: Lessons from Clinical Trial Data Sharing"
+      publisher: "Center for Democracy & Technology"
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716353
+      date: 2024-03-01
+      note: Co-Authored with Christopher Morten and Salomé Viljoen
+      topic: data-sharing
+      fave: true
+    - name: "Regulating Large Language Models: A Roundtable Report"
+      publisher: "Center for Democracy & Technology"
+      link: https://cdt.org/insights/regulating-large-language-models-a-roundtable-report/
+      date: 2024-02-13
+      note: Co-Authored with Paul Friedl
+      topic: ai
     - name: "Understanding Innovation in Interoperable Systems: A Podcasting Case Study"
       publisher: "Center for Democracy & Technology"
       link: https://cdt.org/insights/understanding-innovation-in-interoperable-systems-a-podcasting-case-study/
@@ -33,12 +46,12 @@ longPapers:
       date: 2021-04-08
       fave: false
       topic: data-sharing
-    - name: "The New Portability: Designing Portability with Competition in Mind"
-      publisher: Engelberg Center on Innovation Law and Policy
-      link: https://www.law.nyu.edu/sites/default/files/The_New_Data_Portability.pdf
-      date: 2020-09-01
-      fave: true
-      topic: data-sharing
+    # - name: "The New Portability: Designing Portability with Competition in Mind"
+    #   publisher: Engelberg Center on Innovation Law and Policy
+    #   link: https://www.law.nyu.edu/sites/default/files/The_New_Data_Portability.pdf
+    #   date: 2020-09-01
+    #   fave: true
+    #   topic: data-sharing
     - name: "Data Portability and Platform Competition: Is User Data Exported From Facebook Actually Useful to Competitors?"
       publisher: Engelberg Center on Innovation Law and Policy
       link: https://www.law.nyu.edu/sites/default/files/Data%20Portability%20and%20Platform%20Competition%20-%20Is%20User%20Data%20Exported%20From%20Facebook%20Actually%20Useful%20to%20Competitors.pdf
@@ -78,7 +91,7 @@ longPapers:
       publisher: Michigan Telecommunications & Technology Law Review
       link: https://repository.law.umich.edu/mtlr/vol27/iss2/3/
       date: 2021-07-01
-      fave: false
+      fave: true
       topic: data-sharing
     - name: "Failed Hybrids: The Death and Life of Bluetooth Proximity Marketing"
       publisher: Mobile Media & Communication
