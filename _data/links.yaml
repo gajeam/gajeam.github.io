@@ -109,6 +109,11 @@ longPapers:
 otherPublications:
   - title: "Book Reviews"
     list:
+      - name: 'ChatGPT is nothing new. Machines have helped us write for centuries.'
+        publisher: The Washington Post
+        link: https://www.washingtonpost.com/books/2024/02/08/literary-theory-robots-tenen-review/
+        date: February 9, 2024
+        fave: true
       - name: '"Death Glitch" looks at what happens after we’ve logged off for good'
         publisher: The Washington Post
         link: https://www.washingtonpost.com/books/2023/08/10/death-glitch-tamara-kneese-review/
