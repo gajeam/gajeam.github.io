@@ -141,6 +141,11 @@ otherPublications:
         fave: false
   - title: "Op-Eds"
     list:
+      - name: "Red Teaming Isn't Enough"
+        publisher: Foreign Policy
+        link: https://foreignpolicy.com/2024/07/08/artificial-intelligence-ai-election-misinformation-technology-risks/?utm_content=gifting&tpcc=gifting_article&gifting_article=YXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYWktZWxlY3Rpb24tbWlzaW5mb3JtYXRpb24tdGVjaG5vbG9neS1yaXNrcw==&pid=PNIIEQRnirhjrth
+        date: July 8, 2024
+        fave: true
       - name: "The Dire Defect of 'Multilingual' AI Content Moderation"
         publisher: Wired
         link: https://www.wired.com/story/content-moderation-language-artificial-intelligence/
