@@ -107,39 +107,7 @@ longPapers:
       fave: true
       topic: ai
 otherPublications:
-  - title: "Book Reviews"
-    list:
-      - name: 'ChatGPT is nothing new. Machines have helped us write for centuries.'
-        publisher: The Washington Post
-        link: https://www.washingtonpost.com/books/2024/02/08/literary-theory-robots-tenen-review/
-        date: February 9, 2024
-        fave: true
-      - name: '"Death Glitch" looks at what happens after we’ve logged off for good'
-        publisher: The Washington Post
-        link: https://www.washingtonpost.com/books/2023/08/10/death-glitch-tamara-kneese-review/
-        date: August 10, 2023
-        fave: true
-      - name: "A Plan To Fix the Internet: Put the Government in Charge"
-        publisher: The Washington Post
-        link: https://www.washingtonpost.com/outlook/2022/06/24/plan-fix-internet-put-government-charge/
-        date: June 24, 2022
-        fave: false
-      - name: "An AI Loop That Ensnares Consumers and Critics Alike"
-        publisher: The Washington Post
-        link: https://www.washingtonpost.com/outlook/2022/01/28/an-ai-loop-that-ensnares-consumers-critics-alike/
-        date: January 28, 2022
-        fave: true
-      - name: "Armed and Dangerous: Does Technology Make for Better Policing?"
-        publisher: Los Angeles Review of Books
-        link: https://lareviewofbooks.org/article/armed-and-dangerous-does-technology-make-for-better-policing/
-        date: August 12, 2019
-        fave: true
-      - name: "Trust-Busting as the Unsexy Answer to Google and Facebook"
-        publisher: Los Angeles Review of Books
-        link: https://lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/
-        date: January 28, 2019
-        fave: false
-  - title: "Op-Eds"
+    - title: "Op-Eds"
     list:
       - name: "Red Teaming Isn't Enough"
         publisher: Foreign Policy
@@ -201,6 +169,38 @@ otherPublications:
         publisher: The Boston Globe
         link: https://www.bostonglobe.com/opinion/2015/08/04/donald-trump-bernie-sanders-usher-smartphone-election/JwVQ1tAJ4FINL6fVSjGSdK/story.html
         date: August 4, 2015
+        fave: false
+  - title: "Book Reviews"
+    list:
+      - name: 'ChatGPT is nothing new. Machines have helped us write for centuries.'
+        publisher: The Washington Post
+        link: https://www.washingtonpost.com/books/2024/02/08/literary-theory-robots-tenen-review/
+        date: February 9, 2024
+        fave: true
+      - name: '"Death Glitch" looks at what happens after we’ve logged off for good'
+        publisher: The Washington Post
+        link: https://www.washingtonpost.com/books/2023/08/10/death-glitch-tamara-kneese-review/
+        date: August 10, 2023
+        fave: true
+      - name: "A Plan To Fix the Internet: Put the Government in Charge"
+        publisher: The Washington Post
+        link: https://www.washingtonpost.com/outlook/2022/06/24/plan-fix-internet-put-government-charge/
+        date: June 24, 2022
+        fave: false
+      - name: "An AI Loop That Ensnares Consumers and Critics Alike"
+        publisher: The Washington Post
+        link: https://www.washingtonpost.com/outlook/2022/01/28/an-ai-loop-that-ensnares-consumers-critics-alike/
+        date: January 28, 2022
+        fave: true
+      - name: "Armed and Dangerous: Does Technology Make for Better Policing?"
+        publisher: Los Angeles Review of Books
+        link: https://lareviewofbooks.org/article/armed-and-dangerous-does-technology-make-for-better-policing/
+        date: August 12, 2019
+        fave: true
+      - name: "Trust-Busting as the Unsexy Answer to Google and Facebook"
+        publisher: Los Angeles Review of Books
+        link: https://lareviewofbooks.org/article/trust-busting-as-the-unsexy-answer-to-google-and-facebook/
+        date: January 28, 2019
         fave: false
 conferences:
   list:
